@@ -1,6 +1,6 @@
 # Skin Cancer Detection
 
-[Live Site](https://skin-cancer-check.streamlit.app/)
+[Live Site](https://group-g20-skin-cancer-detection.streamlit.app/)
 
 ## Running
 
